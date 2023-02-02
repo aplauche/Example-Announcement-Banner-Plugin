@@ -2,7 +2,7 @@
 /**
  * Plugin Name:       FSD Banner
  * Plugin URI:        https://fullstackdigital.io
- * Description:       A plugin for adding blocks to a theme.
+ * Description:       A basic banner plugin.
  * Version:           1.0.0
  * Requires at least: 5.9
  * Requires PHP:      7.2
